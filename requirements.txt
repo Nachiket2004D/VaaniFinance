@@ -1,0 +1,10 @@
+### 📄 `requirements.txt`
+
+langchain
+langchain-community
+langchain-ollama
+chromadb
+sentence-transformers
+pymupdf
+docx2txt
+gradio
